@@ -1,0 +1,7 @@
+C:\Users\joaol\source\repos\ficha3\ficha3\obj\Debug\exer3.csproj.AssemblyReference.cache
+C:\Users\joaol\source\repos\ficha3\ficha3\obj\Debug\exer3.csproj.CoreCompileInputs.cache
+C:\Users\joaol\source\repos\ficha3\ficha3\bin\Debug\ficha3.exe.config
+C:\Users\joaol\source\repos\ficha3\ficha3\bin\Debug\ficha3.exe
+C:\Users\joaol\source\repos\ficha3\ficha3\bin\Debug\ficha3.pdb
+C:\Users\joaol\source\repos\ficha3\ficha3\obj\Debug\ficha3.exe
+C:\Users\joaol\source\repos\ficha3\ficha3\obj\Debug\ficha3.pdb

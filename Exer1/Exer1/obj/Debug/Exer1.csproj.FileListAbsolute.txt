@@ -1,0 +1,10 @@
+C:\Users\joaol\source\repos\Exer1\Exer1\bin\Debug\Exer1.exe.config
+C:\Users\joaol\source\repos\Exer1\Exer1\bin\Debug\Exer1.exe
+C:\Users\joaol\source\repos\Exer1\Exer1\bin\Debug\Exer1.pdb
+C:\Users\joaol\source\repos\Exer1\Exer1\obj\Debug\Exer1.csproj.AssemblyReference.cache
+C:\Users\joaol\source\repos\Exer1\Exer1\obj\Debug\Exer1.frmSalario.resources
+C:\Users\joaol\source\repos\Exer1\Exer1\obj\Debug\Exer1.Properties.Resources.resources
+C:\Users\joaol\source\repos\Exer1\Exer1\obj\Debug\Exer1.csproj.GenerateResource.cache
+C:\Users\joaol\source\repos\Exer1\Exer1\obj\Debug\Exer1.csproj.CoreCompileInputs.cache
+C:\Users\joaol\source\repos\Exer1\Exer1\obj\Debug\Exer1.exe
+C:\Users\joaol\source\repos\Exer1\Exer1\obj\Debug\Exer1.pdb

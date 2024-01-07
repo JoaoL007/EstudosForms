@@ -1,0 +1,10 @@
+C:\Users\joaol\source\repos\Exer1\Exer2\bin\Debug\Exer2.exe.config
+C:\Users\joaol\source\repos\Exer1\Exer2\bin\Debug\Exer2.exe
+C:\Users\joaol\source\repos\Exer1\Exer2\bin\Debug\Exer2.pdb
+C:\Users\joaol\source\repos\Exer1\Exer2\obj\Debug\Exer2.csproj.AssemblyReference.cache
+C:\Users\joaol\source\repos\Exer1\Exer2\obj\Debug\Exer2.Form1.resources
+C:\Users\joaol\source\repos\Exer1\Exer2\obj\Debug\Exer2.Properties.Resources.resources
+C:\Users\joaol\source\repos\Exer1\Exer2\obj\Debug\Exer2.csproj.GenerateResource.cache
+C:\Users\joaol\source\repos\Exer1\Exer2\obj\Debug\Exer2.csproj.CoreCompileInputs.cache
+C:\Users\joaol\source\repos\Exer1\Exer2\obj\Debug\Exer2.exe
+C:\Users\joaol\source\repos\Exer1\Exer2\obj\Debug\Exer2.pdb

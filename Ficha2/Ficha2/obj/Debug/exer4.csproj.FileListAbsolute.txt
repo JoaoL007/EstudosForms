@@ -1,0 +1,7 @@
+C:\Users\joaol\source\repos\Ficha2\Ficha2\bin\Debug\Ficha2.exe.config
+C:\Users\joaol\source\repos\Ficha2\Ficha2\bin\Debug\Ficha2.exe
+C:\Users\joaol\source\repos\Ficha2\Ficha2\bin\Debug\Ficha2.pdb
+C:\Users\joaol\source\repos\Ficha2\Ficha2\obj\Debug\exer4.csproj.AssemblyReference.cache
+C:\Users\joaol\source\repos\Ficha2\Ficha2\obj\Debug\exer4.csproj.CoreCompileInputs.cache
+C:\Users\joaol\source\repos\Ficha2\Ficha2\obj\Debug\Ficha2.exe
+C:\Users\joaol\source\repos\Ficha2\Ficha2\obj\Debug\Ficha2.pdb

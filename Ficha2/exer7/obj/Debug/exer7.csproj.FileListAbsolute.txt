@@ -1,0 +1,7 @@
+C:\Users\joaol\source\repos\Ficha2\exer7\bin\Debug\exer7.exe.config
+C:\Users\joaol\source\repos\Ficha2\exer7\bin\Debug\exer7.exe
+C:\Users\joaol\source\repos\Ficha2\exer7\bin\Debug\exer7.pdb
+C:\Users\joaol\source\repos\Ficha2\exer7\obj\Debug\exer7.csproj.AssemblyReference.cache
+C:\Users\joaol\source\repos\Ficha2\exer7\obj\Debug\exer7.csproj.CoreCompileInputs.cache
+C:\Users\joaol\source\repos\Ficha2\exer7\obj\Debug\exer7.exe
+C:\Users\joaol\source\repos\Ficha2\exer7\obj\Debug\exer7.pdb
